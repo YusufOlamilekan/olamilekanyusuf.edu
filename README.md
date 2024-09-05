@@ -3,7 +3,8 @@
 #### Technical Skills: Python, MATLAB, C++, 
 
 ## Education	 			        		
-- B.Eng., Electrical and Electronics Engineering | Federal University of Technology Minna, Nigeria (_January 2024_)
+- B.Eng., Electrical and Electronics Engineering
+  Federal University of Technology Minna, Nigeria (_January 2024_)
   
 
 ## Work Experience
