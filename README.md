@@ -1,10 +1,17 @@
-# Data Scientist
+## Profile Summary
+I have demonstrated experience in Internet of Things, embedded systems, robot operating systems, artificial intelligence, computer
+vision, image processing, machine and deep learning modeling, MATLAB modeling and simulation, and electrical service design.
+However, with my forward-thinking approach and a natural curiosity for innovation, I am particularly interested in creating and
+contributing to the advancement of innovative solutions through the integration of cutting-edge technologies. I base my projects
+on real-world applications, ranging from structural health monitoring to precision farming to healthier individuals. I have gained
+proficiency in programming languages such as embedded C++, C++, Linux C++, Python, and MATLAB.
 
-#### Technical Skills: Python, MATLAB, C++, 
+#### Research Interest
+Research Interest: Computer vision | Edge computing | Machine Learning | Edge AI | Robotics | Wearable devices | Wireless communication | Signal Processing | Internet of Things | Intelligent systems | Remote sensing | Cyber-Physical systems
+
 
 ## Education	 			        		
-- B.Eng., Electrical and Electronics Engineering
-  Federal University of Technology Minna, Nigeria (_January 2024_)
+- B.Eng., Electrical and Electronics Engineering | Federal University of Technology Minna, Nigeria (_January 2024_)
   
 
 ## Work Experience
@@ -42,6 +49,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Regularly attended postgraduate seminars at the School of Postgraduates, Federal University of Technology, Minna, Niger State, Nigeria. 
 
 ## Publications
-1. S. Adeniyi, K. E. Jack, A. O. Bankole, A. A. Adeniyi, A. A. Ginyan, & **O. M. Yusuf** (2023). “An Improved Wearable Medication Reminder System Using Peripheral Interface Controller for Persons with Arrhythmia”. Journal Of Engineering, Emerging Technologies, and Applied Sciences (JEETAS), 1(1), 62-74 (https://www.ndu.edu.ng/wp-content/uploads/journals/jeetas/62-74.pdf)
-
-- [Data Science Blog](https://medium.com/@shawhin)
+1. S. Adeniyi, K. E. Jack, A. O. Bankole, A. A. Adeniyi, A. A. Ginyan, & **O. M. Yusuf** (2023). “An Improved Wearable Medication Reminder System Using Peripheral Interface Controller for Persons with Arrhythmia”. Journal Of Engineering, Emerging Technologies, and Applied Sciences (JEETAS), 1(1), 62-74 [link](https://www.ndu.edu.ng/wp-content/uploads/journals/jeetas/62-74.pdf)
