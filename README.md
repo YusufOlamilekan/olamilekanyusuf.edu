@@ -12,7 +12,7 @@ Research Interest: Computer vision | Edge computing | Machine Learning | Edge AI
 </div>
 
 ## Education	 			        		
-- B.Eng., Electrical and Electronics Engineering <br/ > Federal University of Technology Minna, Nigeria (_January 2024_)
+- B.Eng., Electrical and Electronics Engineering <br /> Federal University of Technology Minna, Nigeria (_January 2024_)
   
 
 ## Work Experience
