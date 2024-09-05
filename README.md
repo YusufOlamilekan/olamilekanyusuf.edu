@@ -1,6 +1,7 @@
 ## Profile Summary
 <div style='text-align: justify;'>
   I have demonstrated experience in Internet of Things, embedded systems, robot operating systems, artificial intelligence, computer vision, image processing,    machine and deep learning modeling, MATLAB modeling and simulation, and electrical service design. However, with my forward-thinking approach and a natural curiosity for innovation, I am particularly interested in creating and contributing to the advancement of innovative solutions through the integration of cutting-edge technologies. I base my projects on real-world applications, ranging from structural health monitoring to precision farming to healthier individuals. I have gained proficiency in programming languages such as embedded C++, C++, Linux C++, Python, and MATLAB.
+  ___
   
 </div>
 
