@@ -10,7 +10,7 @@ ____
 <div style='text-align: justify;'>
 Research Interest: Computer vision | Edge computing | Machine Learning | Edge AI | Robotics | Wearable devices | Wireless communication | Signal Processing | Internet of Things | Intelligent systems | Remote sensing | Cyber-Physical systems
 </div>
-____
+______________________
 
 ## Education	 			        		
 - B.Eng., Electrical and Electronics Engineering <br /> Federal University of Technology Minna, Nigeria (_January 2024_)
