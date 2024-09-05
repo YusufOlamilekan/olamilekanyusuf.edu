@@ -30,17 +30,17 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Talks, Conferences, and Workshops
+- Nigerian-EU Innovation Days, Lagos, Nigeria. July 2024
+- IoT West Africa Conference & Exhibition, Lagos, Nigeria. June 2023 & July 2024
+- Raspberry Pi workshop, Lagos, Nigeria. June 2024
+- Presented a “Next-Gen IoT Surveillance: Portable, Real-Time Control, and Monitoring via Telegram” at the Hon. Justice Idris Legbo Kutigi International
+  Conference Center, Minna, Niger State, Nigeria. November 2023
+- IEEE African Student and Young Professional Congress, Abuja, Nigeria. July 2023
+- IoT/Hardware Digital Youth Training, Federal Ministry of Youth and Sport Development. September 2021
+- Regularly attended postgraduate seminars at the School of Postgraduates, Federal University of Technology, Minna, Niger State, Nigeria. 
 
 ## Publications
-1. S. Adeniyi, K. E. Jack, A. O. Bankole, A. A. Adeniyi, A. A. Ginyan, & *O. M. Yusuf* (2023). “An Improved Wearable Medication Reminder System Using Peripheral Interface Controller for Persons with Arrhythmia”. Journal Of Engineering, Emerging Technologies, and Applied Sciences (JEETAS), 1(1), 62-74 (https://www.ndu.edu.ng/wp-content/uploads/journals/jeetas/62-74.pdf)
+1. S. Adeniyi, K. E. Jack, A. O. Bankole, A. A. Adeniyi, A. A. Ginyan, & **O. M. Yusuf** (2023). “An Improved Wearable Medication Reminder System Using Peripheral Interface Controller for Persons with Arrhythmia”. Journal Of Engineering, Emerging Technologies, and Applied Sciences (JEETAS), 1(1), 62-74 (https://www.ndu.edu.ng/wp-content/uploads/journals/jeetas/62-74.pdf)
 
 - [Data Science Blog](https://medium.com/@shawhin)
