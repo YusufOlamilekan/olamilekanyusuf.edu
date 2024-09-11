@@ -5,3 +5,12 @@ description: Welcome to my Academic portfolio
 author:
   email: horlamilekanyusuf@gmail.com
 theme: jekyll-theme-minimal
+
+navbar_fixed: true
+footer_fixed: true
+search_enabled: true
+socials_in_search: true
+bib_search: true
+
+# Dimensions
+max_width: 930px
